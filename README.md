@@ -1,1 +1,1 @@
-# TikTok-Hushfeed-Releases
+# Hushfeed-Releases
